@@ -1,4 +1,4 @@
-ALTASEB CHERNE, [10/10/2025 3:23 PM]
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/shambelkibr/shambelkibr/blob/main/banner.gif" alt="Shambel Kibre Banner" width="100%" />
@@ -67,7 +67,7 @@ DevOps & Tools:
 
 ---
 
-ALTASEB CHERNE, [10/10/2025 3:23 PM]
+
 ## 🧠 About Me  
 💼 Currently learning advanced MERN stack and backend scaling  
 🌍 Based in Ethiopia  
