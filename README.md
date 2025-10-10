@@ -21,7 +21,6 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack:
 
 Languages & Frameworks:  
@@ -53,6 +52,7 @@ DevOps & Tools:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 
 ---
+
 
 ## 📊 GitHub Stats:
 
@@ -90,4 +90,6 @@ DevOps & Tools:
 </p>
 
 ---
+
+
 
