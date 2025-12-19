@@ -120,10 +120,20 @@
 
 ## 🤝 Connect With Me
 <p>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin"/>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shanbel-kibre-b5ab38369">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin"/>
+  </a>
+
+  <a href="https://t.me/Ethio5110">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
