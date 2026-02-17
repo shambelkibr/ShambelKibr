@@ -102,11 +102,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&theme=radical&layout=compact" height="160"/>
 </p>
 
----
-
-
-
----
 
 ## 🛰 Contribution Graph
 <p align="center">
