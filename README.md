@@ -17,9 +17,6 @@
 - 🎓 Third-Year Software Engineering Student at Debre Berhan University
 - 💼 Full-Stack Developer  
 - 🔥 MERN Stack & Backend Scaling  
-- 🎨 UI/UX & System Design  
-- ⚡ Love building automation tools  
-
 ---
 
 ## 🧩 Tech Stack (Modern Card Layout)
