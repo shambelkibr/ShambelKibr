@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 - 🌍 Ethiopia
-- 🎓 Third-Year Software Engineering Student at Debre Berhan University
+- 🎓 Software Engineer 
 - 💼 Full-Stack Developer  
 - 🔥 MERN Stack & Backend Scaling  
 ---
