@@ -96,9 +96,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&theme=radical&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&layout=compact&theme=radical" />
 </p>
-
 
 ## 🛰 Contribution Graph
 <p align="center">
