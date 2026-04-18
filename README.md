@@ -91,15 +91,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=shambelkibr&theme=radical" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shambelkibr&theme=radical&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&layout=compact&theme=radical" />
+  <img height="160" width="32%" src="https://streak-stats.demolab.com?user=shambelkibr&theme=radical" />
+  <img height="160" width="32%" src="https://github-readme-stats.vercel.app/api?username=shambelkibr&theme=radical&cache_seconds=86400" />
+  <img height="160" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&layout=compact&theme=radical" />
 </p>
 
 
