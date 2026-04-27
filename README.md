@@ -89,14 +89,18 @@
 </table>
 
 
-## 📊 GitHub Status
-<p align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
   <img height="160" width="32%" src="https://streak-stats.demolab.com?user=shambelkibr&theme=radical&v=1" />
+
   <img height="160" width="32%" src="https://github-readme-stats.vercel.app/api?username=shambelkibr&theme=radical&cache_seconds=60&v=1" />
+
   <img height="160" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambelkibr&layout=compact&theme=radical&v=1" />
-</p>
 
-
+</div>
 
 ## 📊 LeetCode Stats
 
