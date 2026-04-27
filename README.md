@@ -118,7 +118,7 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://github.com/">
+  <a href="https://github.com/shanbelkibre">
     <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github"/>
   </a>
 
