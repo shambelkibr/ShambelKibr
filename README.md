@@ -93,18 +93,12 @@
 
 ## 📊 GitHub Status
 
-<div align="center">
-<p>
-  <img height="160" width="32%" 
-  src="https://github-readme-stats.vercel.app/api?username=shanbelkibre&show_icons=true&theme=radical&hide_border=true&v=1" />
-  <img height="160" width="32%" src="https://streak-stats.demolab.com?user=shanbelkibre&theme=radical&v=2" />
-  <img height="160" width="32%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbelkibre&layout=compact&theme=radical&v=2" />
-  
-  </p>
 
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shanbelkibre&theme=radical" />
+   <img height="150" src="https://streak-stats.demolab.com?user=shanbelkibre&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbelkibre&layout=compact&theme=radical" />
+</p>
 
 ## 📊 LeetCode Stats
 
