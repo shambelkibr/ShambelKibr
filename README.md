@@ -18,8 +18,7 @@
 - 💼 Full-Stack Developer  
 - 🔥 MERN Stack & Backend Scaling  
 ---
-
-## 🧩 Tech Stack (Modern Card Layout)
+## 🧰 Tech Stack (Modern Card Layout)
 
 <table>
 <tr>
@@ -90,14 +89,19 @@
 </table>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,js,react,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
+</p>
+
+
 
 ## 📊 GitHub Status
 
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shanbelkibre&theme=radical" />
-   <img height="150" src="https://streak-stats.demolab.com?user=shanbelkibre&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbelkibre&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=shanbelkibre&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanbelkibre&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanbelkibre&theme=tokyonight" width="32%" />
 </p>
 
 ## 📊 LeetCode Stats
