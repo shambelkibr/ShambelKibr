@@ -18,7 +18,7 @@
 - 💼 Full-Stack Developer  
 - 🔥 MERN Stack & Backend Scaling  
 ---
-## 🧰 Tech Stack (Modern Card Layout)
+##  Tech Stack (Modern Card Layout)
 
 <table>
 <tr>
@@ -46,7 +46,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Programming Languages
+###  Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
