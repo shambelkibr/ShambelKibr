@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center">
-  <b>🚀 Turning ideas into scalable, modern, and efficient applications</b>
+  <b> Turning ideas into scalable, modern, and efficient applications</b>
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 - 🌍 Ethiopia
 - 🎓 Software Engineer 
 - 💼 Full-Stack Developer  
