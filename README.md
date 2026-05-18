@@ -112,10 +112,12 @@
 
 
 ## 🛰 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanbelkibre&show_icons=true&theme=react&count_private=true"/>
-</p>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanbelkibre&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 
 ## 🤝 Connect With Me
