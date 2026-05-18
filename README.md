@@ -113,7 +113,7 @@
 
 ## 🛰 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanbelkibre&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shanbelkibre&show_icons=true&theme=react&count_private=true"/>
 </p>
 
 
